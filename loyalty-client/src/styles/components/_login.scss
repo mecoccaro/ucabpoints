@@ -1,0 +1,27 @@
+.container-login {
+  height: 100%;
+  margin: 0;
+  overflow-y: hidden !important;
+
+}
+
+.content-login {
+  height: 100%;
+}
+
+.register-form {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.google-button {
+  background-color: $google-color !important;
+}
+
+.facebook-button {
+  background-color: $facebook-color !important;
+}
+
+.base-button {
+  background-color: $base-color !important;
+}

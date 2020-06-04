@@ -1,0 +1,23 @@
+.container-login {
+  height: 100%;
+  margin: 0;
+  overflow-y: hidden !important;
+}
+
+.content-login {
+  height: 100%;
+}
+
+.register-form {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.adminLogo{
+  filter: contrast(40%);
+  filter: brightness(50%);
+}
+
+.admin-button{
+  background-color: $admin-base-color !important;
+}

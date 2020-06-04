@@ -1,0 +1,34 @@
+.navbar {
+  background-color: $base-color !important;
+}
+
+.container-home {
+  margin: 0;
+  overflow-y: hidden !important;
+}
+
+.home-logo {
+  height: 70%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.home-logo-image {
+  margin-bottom: 10px;
+}
+
+.container-footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  padding: 0 !important;
+  background-color: $base-color !important;
+}
+.home-localiza {
+  //margin-bottom: 30px;
+}

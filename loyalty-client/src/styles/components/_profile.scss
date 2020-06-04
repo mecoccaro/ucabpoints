@@ -1,0 +1,59 @@
+.form {
+  max-width: 700px;
+  max-height: 70vh;
+  margin: 0;
+  background-color: white;
+  border-radius: 1px;
+  box-shadow: 10px 5px 5px #d5d8d8;
+  overflow-y: auto;
+}
+
+.formtitle {
+  color: white;
+  text-align: center;
+  justify-self: center;
+  background-color: $base-color !important;
+  border-radius: 1px;
+  padding: 0;
+  width: 700px;
+  height: 50px;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: 200;
+}
+
+.btns {
+  justify-content: center;
+  margin: 7px;
+  background-color: $base-color !important;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+.btn {
+  background-color: $base-color !important;
+}
+
+.card-profile {
+  height: 83%;
+}
+
+.imagen {
+  width: 200px;
+  height: 200px;
+}
+
+.form::-webkit-scrollbar {
+  width: 7px;
+}
+.form::-webkit-scrollbar-thumb {
+  background-color: $base-color !important;
+}
+
+.container-profile {
+  margin: 0;
+  overflow-y: auto !important;
+}
+
+.title-profile {
+  margin-top: 15px;
+}
