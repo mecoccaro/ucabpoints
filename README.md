@@ -120,3 +120,25 @@ $ npm run build
 $ cd dist
 $ npx serve -s
 ```
+
+### Contribuidores
+<p>
+    <img
+      alt="JAA1998 Github Avatar" 
+      width="80" 
+      src="https://github.com/JAA1998.png?size=80"
+    >
+    <img
+      alt="mecoccaro Github Avatar" 
+      width="80" 
+      src="https://github.com/mecoccaro.png?size=80"
+    >
+    <img
+      alt="DiorfelisMedina Github Avatar" 
+      width="80" 
+      src="https://github.com/DiorfelisMedina.png?size=80"
+    >
+</p>
+* Javier Andrade
+* Miguel Coccaro
+* Diorfelis Medina
