@@ -139,6 +139,3 @@ $ npx serve -s
       src="https://github.com/DiorfelisMedina.png?size=80"
     >
 </p>
-* Javier Andrade
-* Miguel Coccaro
-* Diorfelis Medina
